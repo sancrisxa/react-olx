@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    background-color: #EEE;
+}
+
+.container {
+    max-width: 960px;
+    margin: auto;
+    display: flex;
+}
